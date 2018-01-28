@@ -11,7 +11,7 @@ angular.module('app').factory('config',
                 return uuid;
             };
             var config = {
-                HOST: 'http://localhost/doantotnghiep/',
+                HOST: 'http://doantotnghiep.truong/',
                 STATIC_HOST: 'http://statics.viecnhanhanh.vn/',
             }
             return config;
