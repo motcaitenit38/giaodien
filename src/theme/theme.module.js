@@ -1,0 +1,1 @@
+angular.module('app.theme', ['app.theme.components']);
